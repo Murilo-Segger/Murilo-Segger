@@ -1,4 +1,4 @@
-### Olá! Eu sou o Murilo
+## Olá! Eu sou o Murilo
 
 <div align="center">
   <a href="https://github.com/Murilo-Segger">
