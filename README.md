@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Murilo
 
-<div style="display :flex">
+<div style="display: inline-block">
   <a href="https://github.com/Murilo-Segger">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Segger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Segger&layout=compact&langs_count=7&theme=tokyonight"/>
